@@ -1,1 +1,34 @@
 
+.page-top-text {
+    color: purple;
+    font-family: "Arial", serif;
+    font-weight: 700;
+    text-align: center;
+  }
+
+.recipe-links {
+    color: red;
+    font-size: 22px;
+  }
+
+.page-top-text#intro {
+    color: #1100ff;;
+  }
+
+h1,
+.recipe-links,
+#intro {
+    background-color: orange;
+}
+
+.dishes {
+    height: auto;
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.dishes .dish-text{
+    color: orangered;
+}
