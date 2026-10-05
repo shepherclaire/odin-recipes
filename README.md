@@ -1,5 +1,5 @@
 # odin-recipes
-Odin Project 1 - HTML recipes
+Odin Project - HTML project "Recipes" in Foundations course
 
 Create a recipe website with a homepage and links to 3 recipe pages
 
